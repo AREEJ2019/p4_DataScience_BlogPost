@@ -4,7 +4,6 @@
 ## Table of Contents
 <ul>
 <li><a href="#intro">Introduction</a></li>
-<li><a href="#Business understanding">Business understanding</a></li>
 <li><a href="#Data understanding">Data understanding</a></li>
 <li><a href="#Data preparation and clean">Data preparation and clean</a></li>
 <li><a href="#Answer Questions base on dataset">Answer Questions base on dataset</a></li>

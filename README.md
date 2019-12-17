@@ -1,5 +1,6 @@
 # p4_DataScience_BlogPost
-![alt test](screenshots/crime range in YEAR.png)
+![](Crime range in YEAR.png)
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -11,3 +12,6 @@
 </html>
 
  ![](Crime range in YEAR.png) 
+
+
+<img src="crime range in YEAR.png">

@@ -47,3 +47,22 @@ In this project, will focus to answer this 4 questions:
 
 ![](images/Crime%20range%20in%20YEAR.png)
 
+<a id='conclusions '></a>
+
+# conclusions 
+
+- Crimes does not affected with weekdayes or weekend as we can see from the mean and the plot, the results are very close to each other
+- Top 10 type of OFFENSE_DESCRIPTION Distribution
+  - SICK/INJURED/MEDICAL - PERSON           
+  - INVESTIGATE PERSON                      
+  - M/V - LEAVING SCENE - PROPERTY DAMAGE    
+  - VANDALISM                                
+  - ASSAULT SIMPLE - BATTERY                 
+  - VERBAL DISPUTE                           
+  - TOWED MOTOR VEHICLE                      
+  - INVESTIGATE PROPERTY                    
+  - LARCENY THEFT FROM BUILDING               
+  - THREATS TO DO BODILY HARM    
+
+-  Months 6,7 and 8 ( june,julay and augast)get highr in crimes activity ,so we can say that summer break in boston might have have highr crimes activity
+- Crimes activity was high in 2016 and 2017 and decresed at 2018.

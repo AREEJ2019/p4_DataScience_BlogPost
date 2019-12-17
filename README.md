@@ -1,5 +1,5 @@
 # p4_DataScience_BlogPost
-![](Crime range in YEAR.png)
+![](images/Crime range in YEAR.png)
 
 <!DOCTYPE html>
 <html>
@@ -11,7 +11,7 @@
 </body>
 </html>
 
- ![](Crime range in YEAR.png) 
+ ![](images/Crime range in YEAR.png) 
 
 
 <img src="crime range in YEAR.png">

@@ -40,5 +40,5 @@ In this project, will focus to answer this 4 questions:
 
 ![](images/crime%20range%20in%20days.png)
 
-![](images/crime%20range%20in%20days.png)
+![](images/Top%2010%20type%20of%20OFFENSE_DESCRIPTION%20Distribution.png)
 

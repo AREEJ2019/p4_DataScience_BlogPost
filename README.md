@@ -2,16 +2,17 @@
 # Project: Data Science Blog Post - (Crimes in USA Boston Data)
 
 ## Table of Contents
+
 <ul>
 <li><a href="Installation">Installation</a></li>
-  <li><a href="#Project Motivation">Project Motivation</a></li>
+<li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#File Description">File Description</a></li>
 <li><a href="#Results">Results</a></li>
 <li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
 </ul>
 
-<a id='Installation'></a>
 
+<a id='Installation'></a>
 # Installation
 The code should run with no issues using Python versions 3.*.
 <a id='Project Motivation'></a>

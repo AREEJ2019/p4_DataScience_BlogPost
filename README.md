@@ -3,6 +3,14 @@
 
 ## Table of Contents
 <ul>
+<li><a href="Installation">Installation</a></li>
+  <li><a href="#Project Motivation">Project Motivation</a></li>
+<li><a href="#File Description">File Description</a></li>
+<li><a href="#Results">Results</a></li>
+<li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
+</ul>
+## Table of Contents
+<ul>
 <li><a href="#intro">Introduction</a></li>
   <li><a href="#Business understanding">Business understanding</a></li>
 <li><a href="#Data preparation and clean">Data preparation and clean</a></li>
@@ -10,20 +18,13 @@
 <li><a href="#conclusions">Conclusions</a></li>
 </ul>
 
-<a id='intro'></a>
+<a id='Installation'></a>
 
-# Introduction
-"Crime incident report are provided by Boston police Department(BPD) to document the inital details surraounding an incident to which BPD offecers respond. this is a data set containing records from the new crime incidents report system,which includes a reduced set of fields focused on capturing the type of incident as well as  when and where it occured.Records  begin in June 14  of 2015 and continue to september 3 of 2018".this dataset contain information about crimes in USA Boston which will be used  in the 4th project od data science Udacity Nanodegree.
-This project will follow the CRISP-DM process (Cross Industry Process for Data Mining).
+# Installation
+The code should run with no issues using Python versions 3.*.
+<a id='Project Motivation'></a>
 
-- Business understanding
-- Data understanding
-- Data preparation and clean
-- Answer Questions base on dataset 
-- conclusions
-<a id='Business understanding'></a>
-
-# Business understanding
+# Project Motivation
 
 In this project, will focus to answer this 4 questions:
 

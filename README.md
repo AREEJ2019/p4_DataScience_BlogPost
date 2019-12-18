@@ -4,7 +4,7 @@
 ## Table of Contents
 
 <ul>
-<li><a href="Installation">Installation</a></li>
+<li><a href="#Installation">Installation</a></li>
 <li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#File Description">File Description</a></li>
 <li><a href="#Results">Results</a></li>

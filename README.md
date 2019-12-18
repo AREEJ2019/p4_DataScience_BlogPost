@@ -27,7 +27,7 @@ In this project, will focus to answer this 4 questions:
 - Did the crime increas in the last 4 years?
 
 <a id='File Description'></a>
-## File Description
+# File Description
 
 These are the following files I used to complete this analysis:
 Crime.ipynb: The iPython notebook containing all calculations, figures, and findings pertaining to the project.

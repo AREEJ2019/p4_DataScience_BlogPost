@@ -9,14 +9,6 @@
 <li><a href="#Results">Results</a></li>
 <li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
 </ul>
-## Table of Contents
-<ul>
-<li><a href="#intro">Introduction</a></li>
-  <li><a href="#Business understanding">Business understanding</a></li>
-<li><a href="#Data preparation and clean">Data preparation and clean</a></li>
-<li><a href="#Answer Questions base on dataset">Answer Questions base on dataset</a></li>
-<li><a href="#conclusions">Conclusions</a></li>
-</ul>
 
 <a id='Installation'></a>
 
@@ -51,4 +43,4 @@ The main findings of the code can be found at the <a href="https://medium.com/@a
 
 # Licensing, Authors, and Acknowledgements
 
-thanks to Udacity courses for some of code ideas, and to kaggle/Crimes in Boston  for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+thanks to Udacity courses for some of code ideas, and to kaggle/Crimes in Boston  for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here <a href="https://www.kaggle.com/AnalyzeBoston/crimes-in-boston">Kaggle</a>. Otherwise, feel free to use the code here as you would like!

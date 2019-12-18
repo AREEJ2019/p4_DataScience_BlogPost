@@ -37,6 +37,7 @@ In this project, will focus to answer this 4 questions:
 **In this section of the report, i will check for duplication, null values i will clean the dataset to prepare it for analysis.**
 <a id='Answer Questions base on dataset'></a>
 # Answer Questions based on dataset 
+![](https://medium.com/@albishiareej/project-data-science-blog-post-crimes-in-usa-boston-data-b1ce019b5802)
 
 ![](images/crime%20range%20in%20days.png)
 

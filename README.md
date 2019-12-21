@@ -6,6 +6,7 @@
 <ul>
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Project Motivation">Project Motivation</a></li>
+<li><a href="#Data preparation and clean">Data preparation and clean</a></li>
 <li><a href="#File Description">File Description</a></li>
 <li><a href="#Results">Results</a></li>
 <li><a href="#Licensing, Authors, and Acknowledgements">Licensing, Authors, and Acknowledgements</a></li>
@@ -25,6 +26,10 @@ In this project, will focus to answer this 4 questions:
 - what is the 10 most famouse type of OFFENSE_DESCRIPTION in boston?
 - The month which occured the largest rate of crimes?in what months the crime increase?
 - Did the crime increas in the last 4 years?
+
+<a id='Data preparation and clean'></a>
+# Data preparation and clean
+Data is checked using some functins ,missing values ,duplicates and drop cloumns that wont be used in the analysis result of cleaning can be found here  <a href="https://medium.com/@albishiareej/project-data-science-blog-post-crimes-in-usa-boston-data-4c4417aff7e7">here/a> available
 
 <a id='File Description'></a>
 # File Description

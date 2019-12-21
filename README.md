@@ -29,7 +29,7 @@ In this project, will focus to answer this 4 questions:
 
 <a id='Data preparation and clean'></a>
 # Data preparation and clean
-Data is checked using some functins ,missing values ,duplicates and drop cloumns that wont be used in the analysis result of cleaning can be found here  <a href="https://medium.com/@albishiareej/project-data-science-blog-post-crimes-in-usa-boston-data-4c4417aff7e7">here/a> available
+Data is checked using some functins ,missing values ,duplicates and drop cloumns that wont be used in the analysis result of cleaning can be found here  <a href="https://medium.com/@albishiareej/project-data-science-blog-post-crimes-in-usa-boston-data-4c4417aff7e7">here</a> 
 
 <a id='File Description'></a>
 # File Description
